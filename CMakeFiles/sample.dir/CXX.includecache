@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/viktor/projects/parallel/main.cpp
+omp.h
+-
+stdio.h
+-
+
+/usr/local/include/omp.h
+stdlib.h
+-
+stdint.h
+-
+

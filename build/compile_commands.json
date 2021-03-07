@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/viktor/projects/parallel/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -Xclang -fopenmp -o CMakeFiles/sample.dir/main.cpp.o -c /Users/viktor/projects/parallel/main.cpp",
+  "file": "/Users/viktor/projects/parallel/main.cpp"
+}
+]

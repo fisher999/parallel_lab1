@@ -1,0 +1,3 @@
+/Users/viktor/projects/parallel/CMakeFiles/rebuild_cache.dir
+/Users/viktor/projects/parallel/CMakeFiles/edit_cache.dir
+/Users/viktor/projects/parallel/CMakeFiles/sample.dir
